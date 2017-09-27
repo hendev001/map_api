@@ -1,0 +1,1 @@
+simple app which displays some restaurants along with their location.
